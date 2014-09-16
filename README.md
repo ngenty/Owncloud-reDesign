@@ -1,6 +1,8 @@
 Owncloud-re/Design
 ==================
-*A personnal vision of what Owncloud should be...*
+*A personnal vision of what Owncloud could be...*
+
+### See it on [Behance](https://www.behance.net/gallery/11548659/owncloud-redesign)
 
 > I’m using a private cloud storage every day, in my personal and
 > professional life. Recent events have made me react, I want an
@@ -16,3 +18,5 @@ Owncloud-re/Design
 > technical constraints and think the product for modern browsers only.
 > It’s one of opportunities of the designer, I took advantage of it.
 
+Owncloud re/Design by Nicolas Genty is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Based on a work at https://github.com/ngenty/owncloud-redesign.
